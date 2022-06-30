@@ -14,62 +14,65 @@ header{
     padding: 5px;
 }
 body{
+
     background-color: #FFE9E9;
  font-family: 'Akshar', sans-serif;
  font-size: 20px;
 
 }
-.ME{
+.biocontent{
+    background-color: #D0AFB6;
+}
+.ABOUT{
     display: block;
     text-align: center;
     color: black;
    font-family: font-family:'Akshar', sans-serif;
     
 }
-.biocontent{
-    background-color: #D0AFB6;
+.picture2{
+  margin-left: 100px;
 }
-#picture1{
-    display: flex;
-    justify-content: flex-end;
-    width: 100%;
-
-}
-#bio1{
-   margin-left: 100px; 
-   margin-right: 350px ;
- 
+.shortbio{
+    margin-left: 300px;
+    margin-right: 100px;
 }
 button{
-    background-color:#863C48 ;
-    border: none;
+    background-color: #863C48;
     font-family: font-family:'Akshar', sans-serif;
-    color: white;
+    color: #FFE9E9;
+    border: none;
     padding: 15px 25px;
 }
-.theProject{
-    background-color: #863C48;
+.yellow{
+    background-color: #D7A17C;
 }
-.RECENT{
+.skills{
+    display: block;
     text-align: center;
     color: black;
-   
-}
-.block1{
-    float:left
-    margin-left:100px;
-}
-#recentProject{
-    margin-left: 400px;
-    color: #FFE9E9;
+    background-color: #FFE9E9;
 
 }
-.casestudy{
-    background-color:#D7A17C;
+#skillsResearch{
+    display: block;
     color: black;
+    text-align: left;
+    margin-right: 565px;
+    margin-left:50px ;
+}
+.chart{
+    display: block;
+    justify-content: space-around;
+}
+#tooltime{
+    display: block;
+    text-align: right;
+    margin-left: 565px;
+    margin-right:50px 
+    height:100px;
 }
 footer{
-    text-align: center;
     width: 100%; 
     padding: 25px;
     background-color: #6B8285;
@@ -81,10 +84,12 @@ footer{
 }
 
 .logo{
-    display: flex;
-    align-content: center;
+    text-align: left;
 }
 #copyright{
+    display: block;
+    padding: 10px;
+    width: 200px;
     text-align: right;
     
 }

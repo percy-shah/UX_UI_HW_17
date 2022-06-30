@@ -1,0 +1,88 @@
+header{
+    display: block;
+    width: 100%; 
+    font-size: 20px;
+    padding: 25px;
+    text-align: center; 
+    color:#FFFFFF ;
+    background-color:#6B8285;
+    font-size: 20px;
+    font-weight:lighter;
+}
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+}
+body{
+    background-color: #FFE9E9;
+ font-family: 'Akshar', sans-serif;
+ font-size: 20px;
+
+
+}
+
+.PROJECTS{
+    text-align: center;
+}
+.threeProjects{
+    background-color: #863C48;
+
+}
+.TRASAR{
+    display: block;
+    margin-left: 30px;
+    margin-right: 10px;
+    width: 50%;
+    
+}
+.projectTRASAR{
+    text-align:left;
+    padding: 15px;
+    color: #FFE9E9
+}
+.NPS{
+    display: block;
+    margin-left: 30px;
+    margin-right: 10px;
+    width: 50%;
+}
+.projectNPS{
+    text-align:left;
+    padding: 15px;
+    color: #FFE9E9
+ 
+}
+.HU{
+    display: block;
+    margin-left: 30px;
+    margin-right: 10px;
+    width: 50%;
+}
+.projectHopped{
+    text-align: left;
+    padding: 15px;
+    color: #FFE9E9
+}
+
+footer{
+    width: 100%; 
+    padding: 25px;
+    background-color: #6B8285;
+    color: white;
+ 
+}
+#socialmedia{
+   text-align: right;
+}
+
+.logo{
+    text-align: left;
+}
+#copyright{
+    display: block;
+    padding: 10px;
+    width: 200px;
+    text-align: right;
+    
+}

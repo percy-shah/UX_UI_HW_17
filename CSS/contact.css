@@ -19,26 +19,22 @@ body{
  font-size: 20px;
 
 }
-.ME{
-    display: block;
+.CONNECT{
     text-align: center;
-    color: black;
-   font-family: font-family:'Akshar', sans-serif;
-    
+    background-color: #FFE9E9;
 }
-.biocontent{
-    background-color: #D0AFB6;
+section{
+    background-color:#D7A17C ;
 }
-#picture1{
-    display: flex;
+#picture3{
+     display: flex;
     justify-content: flex-end;
     width: 100%;
-
 }
-#bio1{
-   margin-left: 100px; 
-   margin-right: 350px ;
- 
+.tynote{
+    font-family: 'Akshar', sans-serif;
+ font-size: 15px;
+
 }
 button{
     background-color:#863C48 ;
@@ -47,29 +43,7 @@ button{
     color: white;
     padding: 15px 25px;
 }
-.theProject{
-    background-color: #863C48;
-}
-.RECENT{
-    text-align: center;
-    color: black;
-   
-}
-.block1{
-    float:left
-    margin-left:100px;
-}
-#recentProject{
-    margin-left: 400px;
-    color: #FFE9E9;
-
-}
-.casestudy{
-    background-color:#D7A17C;
-    color: black;
-}
 footer{
-    text-align: center;
     width: 100%; 
     padding: 25px;
     background-color: #6B8285;
@@ -81,10 +55,12 @@ footer{
 }
 
 .logo{
-    display: flex;
-    align-content: center;
+    text-align: left;
 }
 #copyright{
+    display: block;
+    padding: 10px;
+    width: 200px;
     text-align: right;
     
 }
