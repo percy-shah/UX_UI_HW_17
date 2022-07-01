@@ -8,6 +8,17 @@ header{
     background-color:#6B8285;
 
 }
+.resume:visited{
+    color: #FFFFFF;
+    text-decoration: none;
+    
+}
+.resume:link{
+    color: #FFFFFF;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
 .inline-block{
     display: inline-block;
     vertical-align: top;
